@@ -13,7 +13,6 @@ RUN pacman -Syu --noconfirm --needed \
   mkinitcpio \
   cdrtools \
   base-devel \
-  haveged \
   wget \
   dos2unix \
   gettext \
