@@ -38,13 +38,18 @@ xf86-video-fbdev
 xf86-input-libinput
 #xf86-video-vmware
 xorg-xinit
-xorg-mkfontdir
+xorg-mkfontscale
 xorg-xmessage
 xterm
 mesa
 # Window manager / Desktop environment
 openbox
-lxde
+lxde-common
+lxde-icon-theme
+lxsession
+lxpanel
+pcmanfm
+lxterminal
 dialog
 # Hardware suff
 alsa-utils
@@ -81,7 +86,6 @@ gptfdisk
 intel-ucode
 libva-intel-driver
 intel-media-driver
-mesa-vdpau
 iwd
 linux-atm
 linux-firmware
