@@ -6,6 +6,8 @@ Document date: 2026-10-14. Horizon: 2026-2028.
 
 This document is not an executable roadmap.
 
+The plan for the work that is not started is in `docs/ga-next-remaining-work.md`.
+
 It records the GA-Next fork as it stands on commit `fc91600` (2025-11-18) and the corrections applied to the October 2026 organisational draft. The bootstrap task adds documentation only.
 
 ## Names
